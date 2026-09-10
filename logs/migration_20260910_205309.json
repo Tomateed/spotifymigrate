@@ -1,0 +1,43 @@
+{
+  "started_at": "2026-09-10T20:43:11.528683",
+  "source_user_id": "31dkinfxmrbhivavrq7qqeg5fqdi",
+  "source_user_name": "mehddi",
+  "destination_user_id": "315awve7nqgztqkcyzkghj6dqjty",
+  "destination_user_name": "mehddi2",
+  "mode": "SKIP",
+  "source_counts": {
+    "playlists_total": 6,
+    "playlists_owned": 6,
+    "playlists_followed": 0,
+    "liked_tracks": 1668,
+    "followed_artists": 9,
+    "saved_albums": 0
+  },
+  "destination_counts": {
+    "playlists_total": 6,
+    "playlists_owned": 6,
+    "playlists_followed": 0,
+    "liked_tracks": 1145,
+    "followed_artists": 0,
+    "saved_albums": 0
+  },
+  "cleanup": {
+    "mode": "SKIP"
+  },
+  "stats": {
+    "playlists_created": 0,
+    "playlists_updated": 0,
+    "playlists_skipped": 6,
+    "playlist_tracks_added": 0,
+    "playlists_followed": 0,
+    "playlists_follow_skipped": 0,
+    "tracks_liked_added": 523,
+    "tracks_liked_skipped": 1145,
+    "artists_followed": 9,
+    "artists_follow_skipped": 0,
+    "albums_saved": 0,
+    "albums_save_skipped": 0
+  },
+  "failures": [],
+  "finished_at": "2026-09-10T20:53:09.253640"
+}

@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+src/spotify_migration/__init__.py
+src/spotify_migration/__main__.py
+src/spotify_migration/auth.py
+src/spotify_migration/destination.py
+src/spotify_migration/migrate.py
+src/spotify_migration/prompts.py
+src/spotify_migration/source.py
+src/spotify_migration/utils.py
+src/spotify_migration.egg-info/PKG-INFO
+src/spotify_migration.egg-info/SOURCES.txt
+src/spotify_migration.egg-info/dependency_links.txt
+src/spotify_migration.egg-info/entry_points.txt
+src/spotify_migration.egg-info/requires.txt
+src/spotify_migration.egg-info/top_level.txt
